@@ -1,0 +1,23 @@
+body{
+    background-color: #fcecdd;
+}
+
+h1{
+    color: #687980;
+    
+}
+
+h3{
+    color: #02475e;
+}
+
+.pic{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+
+}
+
+.contact{
+    color: #687980;
+}
